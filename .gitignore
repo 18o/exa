@@ -19,3 +19,8 @@ parts
 prime
 stage
 *.snap
+
+.idea
+.DS_Store
+*/**/.DS_Store
+Icon**
